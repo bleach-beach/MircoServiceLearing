@@ -8,3 +8,10 @@ https://network.pivotal.io/products/pcfdev
   
 3.cloud-native-workshop
   https://github.com/joshlong/cloud-native-workshop
+
+4.sample
+    spring-cloud-books
+    http://git.oschina.net/darkranger/spring-cloud-books
+
+5.blog
+    http://www.itmuch.com/categories/Spring-Cloud/
